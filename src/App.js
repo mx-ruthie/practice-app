@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React (this is the placeholder text that happens in the react before you change it to your awesome stuff)
         </a>
       </header>
       
